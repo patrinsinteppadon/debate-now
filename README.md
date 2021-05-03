@@ -1,5 +1,8 @@
 # DebateNOW
 
+- This is a copy of a repo for the sake of my own personal notekeeping! 
+- Please also see the original link on Kiran's Github: https://github.com/kiranpradhan01/project-kpdebate
+
 ## Overview
 DebateNOW is a gameified version of Spontaneous Argumentation (SPAR) Debate- a lighthearted 10-minute event where 2 members debate about casual topics (e.g. "Which is better: cats or dogs?" or "Was Thanos right?").
 
