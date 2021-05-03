@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+
+/* default for extra-small screens */
+/** TODO: HAMBURGER MENU ====================================== */
+#nav-links {
+    display: none;
+}
+
+.createGameFirst {
+    padding-top: 7rem; 
+}
+
+.createGameContainer {
+    margin-bottom: 2rem;
+}
+
+.createGameCard {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.modal {
+    background-color: #FFAE27;
+}
+
+#start {
+    margin-left: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+/* #btn-start {
+    margin-bottom: 50px;
+} */
+
+footer {
+    /* content less than full page */
+    bottom: 0;
+}
+
+@media (min-width: 768px) {
+   #nav-links {
+       display: initial;
+   }
+
+   /* if we bring back picture
+   .content-image-container {
+        text-align: center;
+        display: initial;
+        margin-top: -3rem;
+   }
+    
+    #btn-start {
+        margin-top: -11rem !important;
+    } */
+}
+
